@@ -1,17 +1,19 @@
 /*  your css code here. If applicable */
 #card{
-	padding-top:30px;
+
 	background:lightgray;
 	display:inline-block;
 	text-align:center;
 	width:400px;
-	height:600px;
+	height:700px;
 }
 #card>img{
-width:300px;
+	padding-top:30px;
+   width:300px;
+	
 }
 #card>h1{
-	font-size:35px;
+	font-size:50px;
 	lineheight:0px;
 	padding:0px;
 }
